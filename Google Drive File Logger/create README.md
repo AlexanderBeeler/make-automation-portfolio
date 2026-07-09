@@ -30,7 +30,7 @@ Google Drive → Make → Google Sheets
 
 ### Make Scenario
 
-*Coming Soon*
+
 
 ### Google Sheets Output
 
