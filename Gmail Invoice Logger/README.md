@@ -2,11 +2,11 @@
 
 ## Problem
 
-Businesses receive invoices through Gmail but often need an easier way to track them.
+Businesses often receive invoices through Gmail but need a reliable way to track them without manually checking their inbox.
 
 ## Solution
 
-This automation watches Gmail for invoice emails, records the sender, subject, and received date in Google Sheets, and sends a Discord notification.
+This Make automation monitors Gmail for emails containing "Invoice," logs the sender, subject, and received date into Google Sheets, and sends a Discord notification with a summary of the new invoice.
 
 ## Services Used
 
@@ -18,11 +18,18 @@ This automation watches Gmail for invoice emails, records the sender, subject, a
 ## Skills Demonstrated
 
 - Email filtering
+- Conditional logic
 - Data mapping
 - Date formatting
 - Google Sheets integration
 - Discord notifications
 
+## Workflow
+
+Gmail → Make → Google Sheets → Discord
+
 ## Screenshots
 
-Coming soon.
+- Make Scenario
+- Google Sheets Output
+- Discord Notification
