@@ -30,6 +30,14 @@ Gmail → Make → Google Sheets → Discord
 
 ## Screenshots
 
-- Make Scenario
-- Google Sheets Output
-- Discord Notification
+### Make Scenario
+
+![Make Scenario](images/Gmail%20Invoice%20Scenario.png)
+
+### Google Sheets Output
+
+![Google Sheets Output](images/Gmail%20Invoice%20Sheets.png)
+
+### Discord Output
+
+![Discord Output](images/Gmail%20Invoice%20Discord.png)
