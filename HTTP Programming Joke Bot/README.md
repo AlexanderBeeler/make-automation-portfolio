@@ -38,9 +38,9 @@ HTTP Request → Router → Discord → Google Sheets
 
 ### Discord Output
 
-![Discord Output](images/HTTP%20API%20Single%20line%20jokes.png)
-![Discord Output](images/HTTP%20API%20Discord%20Double%20line%20jokes.png)
+![Discord Output](images/HTTP%20API%20Single%20line%20joke.png)
+![Discord Output](images/HTTP%20API%20Discord%20Double%20line%20joke.png)
 
 ### Google Sheets Output
 
-![Google Sheets Output](HTTP%20API%20Sheets.png)
+![Google Sheets Output](HTTP%20API%20Sheets%20Single%20line%20and%20Double%20line%20jokes.png)
