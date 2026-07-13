@@ -31,12 +31,12 @@ Webhook → Make → Google Sheets → Discord
 
 ### Make Scenario
 
-*Coming Soon*
+![Make Scenario](images/Webhook%20Contact%20Scenario.png)
 
 ### Google Sheets Output
 
-*Coming Soon*
+![Google Sheets Output](Webhook%20Contact%20Sheets.png)
 
 ### Discord Output
 
-*Coming Soon*
+![Discord Output](images/Webhook%20Contact%20Discord.png)
