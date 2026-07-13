@@ -29,14 +29,11 @@ RSS Feed → Make → Discord → Google Sheets
 
 ## Screenshots
 
-### Make Scenario
-
-*Coming Soon*
-
 ### Discord Output
 
-*Coming Soon*
+ **Note**
 
-### Google Sheets Output
+ This workflow was developed and successfully tested using an RSS provider's free trial. The trial expired before the portfolio was finalized, so a current Discord notification screenshot is unavailable. The Make scenario and Google Sheets output demonstrate the workflow.
 
-*Coming Soon*
+
+
