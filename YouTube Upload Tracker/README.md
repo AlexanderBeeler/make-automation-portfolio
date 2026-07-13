@@ -30,8 +30,8 @@ YouTube → Make → Discord
 
 ### Make Scenario
 
-*Coming Soon*
+![Make Scenario](images/YouTube-Upload-Scenario.png)
 
 ### Discord Output
 
-*Coming Soon*
+![Discord Output](images/YouTube-Upload-Discord.png)
