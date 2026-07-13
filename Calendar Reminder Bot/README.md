@@ -31,8 +31,8 @@ Google Calendar → Make → Discord
 
 ### Make Scenario
 
-*Coming Soon*
+![Make Scenario](images/Calendar%20Reminder%20Scenario.png)
 
 ### Discord Output
 
-*Coming Soon*
+![Discord Output](images/Calendar%20Reminder%20Discord.png)
