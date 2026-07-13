@@ -30,8 +30,8 @@ Google Drive → Make → Google Sheets
 
 ### Make Scenario
 
-
+![Make Scenario](images/Google%20Drive%20File%20Scenario.png)
 
 ### Google Sheets Output
 
-*Coming Soon*
+![Google Sheets Output](images/Google%20Drive%20File%20Sheets.png)
