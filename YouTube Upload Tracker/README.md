@@ -30,8 +30,8 @@ YouTube → Make → Discord
 
 ### Make Scenario
 
-![Make Scenario](images/YouTube-Upload-Scenario.png)
+![Make Scenario](images/YouTube Upload Scenario.png)
 
 ### Discord Output
 
-![Discord Output](images/YouTube-Upload-Discord.png)
+![Discord Output](images/YouTube Upload Discord.png)
