@@ -34,12 +34,13 @@ HTTP Request → Router → Discord → Google Sheets
 
 ### Make Scenario
 
-*Coming Soon*
+![Make Scenario](images/HTTP%20API%20Scenario.png)
 
 ### Discord Output
 
-*Coming Soon*
+![Discord Output](images/HTTP%20API%20Single%20line%20jokes.png)
+![Discord Output](images/HTTP%20API%20Double%20line%20jokes.png)
 
 ### Google Sheets Output
 
-*Coming Soon*
+![Google Sheets Output](HTTP%20API%20Sheets.png)
