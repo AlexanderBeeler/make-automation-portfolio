@@ -29,8 +29,8 @@ Google Forms → Make → Discord
 
 ### Make Scenario
 
-*Coming Soon*
+![Make Scenario](images/Google%20Forms%20Application%20scenario.png)
 
 ### Discord Output
 
-*Coming Soon*
+![Discord Output](images/Google%20Forms%20Application%20Discord.png)
