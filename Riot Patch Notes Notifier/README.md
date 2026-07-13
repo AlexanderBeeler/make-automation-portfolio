@@ -29,6 +29,14 @@ RSS Feed → Make → Discord → Google Sheets
 
 ## Screenshots
 
+### Make Scenario
+
+![Make Scenario](images/Riot%20Patch%20Notes%20Scenario.png)
+
+### Google Sheets Output
+
+![Google Sheets Output](images/Riot%20Patch%20Notes%20Sheets.png)
+
 ### Discord Output
 
  **Note**
