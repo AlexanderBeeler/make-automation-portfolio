@@ -35,7 +35,7 @@ Webhook → Make → Google Sheets → Discord
 
 ### Google Sheets Output
 
-![Google Sheets Output](Webhook%20Contact%20Sheets.png)
+![Google Sheets Output](images/Webhook%20Contact%20Sheets.png)
 
 ### Discord Output
 
